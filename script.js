@@ -59,3 +59,4 @@ function changeBackground(condition) {
     console.log(`Background class applied: ${body.className}`); // Debug log
 }
 
+
